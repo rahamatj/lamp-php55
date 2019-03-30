@@ -10,7 +10,7 @@
 
 - Install [VirtualBox](https://www.virtualbox.org/)
 - Install [Vagrant](https://www.vagrantup.com/)
-- `git clone http://github.com/rahamatjahan/lamp-php55.git`
+- `git clone http://github.com/rahamatj/lamp-php55.git`
 - `cd lamp-php55`
 - `vagrant up`
 - Put your code inside the `public` folder
